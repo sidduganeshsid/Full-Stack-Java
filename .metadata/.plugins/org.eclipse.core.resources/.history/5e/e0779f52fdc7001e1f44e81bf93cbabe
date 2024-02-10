@@ -1,0 +1,5 @@
+package in.hello.model;
+
+public class Student {
+
+}
