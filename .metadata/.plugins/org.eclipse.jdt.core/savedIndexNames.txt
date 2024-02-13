@@ -3,7 +3,6 @@ INDEX VERSION 1.134+C:\GData\eclipse-Gworkspace\.metadata\.plugins\org.eclipse.j
 1940214200.index
 460041450.index
 3748051981.index
-3707820152.index
 1641761248.index
 1007991716.index
 1536469718.index
