@@ -1,5 +1,7 @@
 package $coreJavaAllConcepts;
 
+//https://stackoverflow.com/questions/30067767/how-do-i-collapse-sections-of-code-in-visual-studio-code
+
 //DriverCode
 public class DriverCode{
 	public static void main(String args[]) {
@@ -277,17 +279,6 @@ class PrimitiveDataTypes
 // E. java MyClass.java   //javac is the command for compilation and java is command 
 // for execution
 }
-
-class Variables{ //6 types
-	//primitive vairables
-	int i1 = 1947;
-
-	//instance variable 
-	int sum = 23_23_255;
-	boolean flag = false;
-	long l;
-	Integer sum2 = 78;
-	// Student name;
 
 	//static variables
 	static int i = 23;
