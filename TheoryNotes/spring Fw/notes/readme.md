@@ -36,4 +36,6 @@ GOF(gang of four)
 ![alt text](image-11.png)
 ![alt text](image-12.png)
 
-
+objects created and managed by the IOC then that is called as Bean.
+we  need to provide the meta data (using xml file or annotations.)
+![alt text](image-14.png)
