@@ -143,7 +143,7 @@ class PrimitiveDataTypes
 // if u have old processors like 8086
 
 	//4bytes, -2147483648 to 2147483647, 0
-	int i = 97;
+//	int i = 97;
 	int ic = '^';
 	
 	//8bytes, -9223372036854775808 to 9223372036854775807 , 0
@@ -278,7 +278,7 @@ class PrimitiveDataTypes
 // D. javac MyClass.java //valid
 // E. java MyClass.java   //javac is the command for compilation and java is command 
 // for execution
-}
+
 
 	//static variables
 	static int i = 23;
