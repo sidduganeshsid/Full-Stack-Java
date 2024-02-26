@@ -39,3 +39,10 @@ GOF(gang of four)
 objects created and managed by the IOC then that is called as Bean.
 we  need to provide the meta data (using xml file or annotations.)
 ![alt text](image-14.png)
+
+mavan is complete software development management tool. < advance of it is "Gradle"
+![alt text](image-15.png)
+Maven we have pom.xml file
+
+
+the purpose of spring framework is the decouple the dependencies.
