@@ -2,3 +2,9 @@ learning API's
 https://api.github.com/users/sidduganeshsid
 
 https://randomuser.me/
+steps :
+search for "json fomatter" in google
+https://randomuser.me/api/
+
+https://jsonformatter.org/
+paste json and see in the form of tree
